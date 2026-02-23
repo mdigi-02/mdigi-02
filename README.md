@@ -1,16 +1,24 @@
-## Hi there 👋
+## Portfolio
 
-<!--
-**mdigi-02/mdigi-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Esittely
+Nimeni on Myrsky Leppä, ja olen 23-vuotias tietotekniikasta kiinnostunut helsinkiläisnuori.\
+Opiskelen tällä hetkellä koodaamisen ja web-kehityksen perusteita Digitalents Academy-työpajalla.
 
-Here are some ideas to get you started:
+### Tietoja minusta
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Koulutus
+* Valmistunut ylioppilaaksi 2022
+
+#### Taidot ja vahvuudet
+* Hyvä suullinen ja kirjallinen suomen ja englannin kielen taito
+* Hyvät tietokoneen käyttötaidot
+* Hyvät ryhmätyötaidot
+* Avoin mieli, kasvun asenne
+
+#### Osaaminen
+* HTML, perustaso
+* CSS, perustaso
+
+### Projekteja
+* [Frontend Mentor: QR code component](https://github.com/mdigi-02/qr-code-component-final)
+* [Frontend Mentor: Order summary component](https://github.com/mdigi-02/order-summary-component-final)
