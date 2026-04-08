@@ -23,5 +23,5 @@ Opiskelen tällä hetkellä koodaamisen ja web-kehityksen perusteita Digitalents
 * [Frontend Mentor - QR code component](https://github.com/mdigi-02/qr-code-component-final)
 * [Frontend Mentor - Order summary component](https://github.com/mdigi-02/order-summary-component-final)
 * [Frontend Mentor - Clipboard Landing Page](https://github.com/mdigi-02/clipboard-landing-page) **(Ryhmäprojekti)**
-* [SuperSimpleDev - Rock Paper Scissors Exercise](https://github.com/mdigi-02/rock-paper-scissors)
+* ~~[SuperSimpleDev - Rock Paper Scissors Exercise]()~~
   
