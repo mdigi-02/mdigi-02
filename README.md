@@ -19,6 +19,11 @@ Opiskelen tällä hetkellä koodaamisen ja web-kehityksen perusteita Digitalents
 * HTML, perustaso
 * CSS, perustaso
 
+#### Käyttämäni ohjelmistot
+* Visual Studio Code
+* Google Chrome
+* Git
+
 ### Projekteja
 * [Frontend Mentor - QR code component](https://github.com/mdigi-02/qr-code-component-final)
 * [Frontend Mentor - Order summary component](https://github.com/mdigi-02/order-summary-component-final)
