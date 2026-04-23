@@ -20,10 +20,11 @@ Opiskelen tällä hetkellä koodaamisen ja web-kehityksen perusteita Digitalents
 * CSS, perustaso
 * Bash-komentotulkin ja Bash-skriptauksen perusteet
 
-#### Käyttämäni ohjelmistot
+#### Käyttämäni ohjelmistot ja palvelut
 * Visual Studio Code
 * Google Chrome
-* Git
+* Git & GitHub
+* Copilot (harkiten)
 
 ### Projekteja
 * [Frontend Mentor - QR code component](https://github.com/mdigi-02/qr-code-component_final)
