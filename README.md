@@ -18,6 +18,7 @@ Opiskelen tällä hetkellä koodaamisen ja web-kehityksen perusteita Digitalents
 #### Osaaminen
 * HTML, perustaso
 * CSS, perustaso
+* Bash-komentotulkin ja Bash-skriptauksen perusteet
 
 #### Käyttämäni ohjelmistot
 * Visual Studio Code
