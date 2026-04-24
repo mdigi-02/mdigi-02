@@ -27,7 +27,7 @@ Opiskelen tällä hetkellä koodaamisen ja web-kehityksen perusteita Digitalents
 * Copilot (harkiten)
 
 ### Projekteja
-* [Frontend Mentor - QR code component](https://github.com/mdigi-02/qr-code-component_final)
-* [Frontend Mentor - Order summary component](https://github.com/mdigi-02/order-summary-component_final)
+* [Frontend Mentor - QR Code Component](https://github.com/mdigi-02/qr-code-component_final)
+* [Frontend Mentor - Order Summary Component](https://github.com/mdigi-02/order-summary-component_final)
 * [Frontend Mentor - Clipboard Landing Page](https://github.com/mdigi-02/clipboard-landing-page-desktop) **(Ryhmäprojekti, projektipäällikkö)**
 * [SuperSimpleDev - Rock Paper Scissors Exercise](https://github.com/mdigi-02/rps)
