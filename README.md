@@ -2,7 +2,7 @@
 
 ### Esittely
 Nimeni on Myrsky Leppä, ja olen 24-vuotias tietotekniikasta kiinnostunut helsinkiläisnuori.\
-Opiskelen tällä hetkellä koodaamisen ja web-kehityksen perusteita Digitalents Academy-työpajalla.
+Olen opiskellut koodaamisen ja web-kehityksen perusteita Digitalents Academy-työpajalla.
 
 ### Tietoja minusta
 
